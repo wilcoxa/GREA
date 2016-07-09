@@ -2,4 +2,4 @@
 
 language: R
 cache: packages
-- ./travis-tool.sh install_github <package>
+- ./travis-tool.sh install_github feather
